@@ -141,7 +141,7 @@ video {
 
 .hero-image-box::after {
   content: "";
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.2);
   height: 100%;
   width: 100%;
   position: absolute;
@@ -157,7 +157,7 @@ video {
 }
 .hero-video {
   background-color: black;
-  background-image: url("../video/production\ ID_4761878.mp4");
+  background-image: url("../video/walk.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
